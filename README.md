@@ -1,28 +1,113 @@
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Florian-85&amp;theme=shadow-blue&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=C9D1D9" alt="GitHub Streak" width="500" />
-  </a>
-</p>
+<p align="right"><a href="./README.fr.md">🇫🇷 Version française</a></p>
 
 <p align="center">
-  <a href="https://github.com/thekingadn?tab=repositories">
-    <img src="./profile/stats.svg?v=centered-3" alt="GitHub Stats" width="49%" />
-  </a>
-  <img src="./profile/languages.svg?v=centered-3" alt="Most Used Languages" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/banner.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/banner.svg?v=b51366b182">
+    <img src="./assets/en/dark/banner.svg?v=b51366b182" alt="Florian B.: automation, infrastructure, applied AI. Nantes, France." width="100%">
+  </picture>
 </p>
 
+<p align="center"><em>I turn real-world needs into concrete, automated and documented systems.</em></p>
 
-<!--
-**thekingadn/thekingadn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#-projects">Projects</a> · <a href="#-stack">Stack</a> · <a href="#-journey">Journey</a> · <a href="#-self-learning">Self-learning</a> · <a href="#-activity">Activity</a> · <a href="#-contact">Contact</a>
+</p>
 
-Here are some ideas to get you started:
+Automation, infrastructure, applied AI for software development: I like things that keep running without manual work. AI writes fast; my job is making sure the result is usable, not disposable. Mostly I build tools for myself (a homelab, a kit to work with AI agents, a few side products) and I document what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Right now**
+- 🧰 Getting AI Development Kit ready to open up
+- 🧭 Git Planner: a daily cockpit for my repos
+- 🎧 White Noise: the first soundscapes
+- 💬 Let's talk about: automation, homelabs, working with AI agents
+
+## 🚀 Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-adk.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-adk.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-adk.svg?v=b51366b182" alt="AI Development Kit" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-benchmark.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-benchmark.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-benchmark.svg?v=b51366b182" alt="Benchmark AI" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-planner.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-planner.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-planner.svg?v=b51366b182" alt="Git Planner" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-whitenoise.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-whitenoise.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-whitenoise.svg?v=b51366b182" alt="White Noise" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-homelab.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-homelab.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-homelab.svg?v=b51366b182" alt="Homelab" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-idea.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-idea.svg?v=b51366b182">
+    <img src="./assets/en/dark/card-idea.svg?v=b51366b182" alt="Idea Archaeology" width="49%">
+  </picture>
+</p>
+
+<sub>★ filled = public repository · ☆ hollow = private for now. Cards light up automatically when a repository goes public.</sub>
+
+## 🧰 Stack
+
+<p align="center"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stack.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stack.svg?v=b51366b182">
+    <img src="./assets/en/dark/stack.svg?v=b51366b182" alt="LANGUAGES, FRAMEWORKS & TOOLS, INFRA & OPS" width="100%">
+  </picture></p>
+
+## 🧭 Journey
+
+<p align="center"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/journey.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/journey.svg?v=b51366b182">
+    <img src="./assets/en/dark/journey.svg?v=b51366b182" alt="🧭 Journey" width="100%">
+  </picture></p>
+
+## 🎓 Self-learning
+
+<p align="center"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/learning.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/learning.svg?v=b51366b182">
+    <img src="./assets/en/dark/learning.svg?v=b51366b182" alt="ESPAÑOL · DUOLINGO" width="100%">
+  </picture></p>
+
+## 📈 Activity
+
+<p align="center"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/streak.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/streak.svg?v=b51366b182">
+    <img src="./assets/en/dark/streak.svg?v=b51366b182" alt="📈 Activity" width="100%">
+  </picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stats.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stats.svg?v=b51366b182">
+    <img src="./assets/en/dark/stats.svg?v=b51366b182" alt="GitHub stats" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/languages.svg?v=b51366b182">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/languages.svg?v=b51366b182">
+    <img src="./assets/en/dark/languages.svg?v=b51366b182" alt="Languages" width="49%">
+  </picture>
+</p>
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://github.com/Florian-85/Florian-85/discussions"><b>💬 Contact me via GitHub Discussions</b></a>
+</p>
+
+<!-- LinkedIn later: [LinkedIn](https://www.linkedin.com/in/...) -->
+<!-- Email: TBD -->
