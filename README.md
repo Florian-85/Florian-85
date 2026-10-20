@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/banner.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/banner.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/banner.svg?v=e8f47a328a" alt="Florian B.: automation, infrastructure, applied AI. Nantes, France." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/banner.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/banner.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/banner.svg?v=bab843f4c4" alt="Florian B.: automation, infrastructure, applied AI. Nantes, France." width="100%">
   </picture>
 </p>
 
@@ -26,34 +26,34 @@ Automation, infrastructure, applied AI for software development: I like things t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-adk.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-adk.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-adk.svg?v=e8f47a328a" alt="AI Development Kit" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-adk.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-adk.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-adk.svg?v=bab843f4c4" alt="AI Development Kit" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-benchmark.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-benchmark.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-benchmark.svg?v=e8f47a328a" alt="Benchmark AI" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-benchmark.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-benchmark.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-benchmark.svg?v=bab843f4c4" alt="Benchmark AI" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-planner.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-planner.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-planner.svg?v=e8f47a328a" alt="Git Planner" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-planner.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-planner.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-planner.svg?v=bab843f4c4" alt="Git Planner" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-whitenoise.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-whitenoise.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-whitenoise.svg?v=e8f47a328a" alt="White Noise" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-whitenoise.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-whitenoise.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-whitenoise.svg?v=bab843f4c4" alt="White Noise" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-homelab.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-homelab.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-homelab.svg?v=e8f47a328a" alt="Homelab" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-homelab.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-homelab.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-homelab.svg?v=bab843f4c4" alt="Homelab" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-idea.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-idea.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/card-idea.svg?v=e8f47a328a" alt="Idea Archaeology" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-idea.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-idea.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/card-idea.svg?v=bab843f4c4" alt="Idea Archaeology" width="49%">
   </picture>
 </p>
 
@@ -62,44 +62,44 @@ Automation, infrastructure, applied AI for software development: I like things t
 ## 🧰 Stack
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stack.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stack.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/stack.svg?v=e8f47a328a" alt="LANGUAGES, FRAMEWORKS & TOOLS, INFRA & OPS" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stack.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stack.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/stack.svg?v=bab843f4c4" alt="LANGUAGES, FRAMEWORKS & TOOLS, INFRA & OPS" width="100%">
   </picture></p>
 
 ## 🧭 Journey
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/journey.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/journey.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/journey.svg?v=e8f47a328a" alt="🧭 Journey" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/journey.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/journey.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/journey.svg?v=bab843f4c4" alt="🧭 Journey" width="100%">
   </picture></p>
 
 ## 🎓 Self-learning
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/learning.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/learning.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/learning.svg?v=e8f47a328a" alt="ESPAÑOL · DUOLINGO" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/learning.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/learning.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/learning.svg?v=bab843f4c4" alt="ESPAÑOL · DUOLINGO" width="100%">
   </picture></p>
 
 ## 📈 Activity
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/streak.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/streak.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/streak.svg?v=e8f47a328a" alt="📈 Activity" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/streak.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/streak.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/streak.svg?v=bab843f4c4" alt="📈 Activity" width="100%">
   </picture></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stats.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stats.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/stats.svg?v=e8f47a328a" alt="GitHub stats" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stats.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stats.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/stats.svg?v=bab843f4c4" alt="GitHub stats" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/languages.svg?v=e8f47a328a">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/languages.svg?v=e8f47a328a">
-    <img src="./assets/en/dark/languages.svg?v=e8f47a328a" alt="Languages" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/languages.svg?v=bab843f4c4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/languages.svg?v=bab843f4c4">
+    <img src="./assets/en/dark/languages.svg?v=bab843f4c4" alt="Languages" width="49%">
   </picture>
 </p>
 

@@ -6,7 +6,6 @@
 <rect x="376" y="20" width="96" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="424" y="37" text-anchor="middle" font-size="13" fill="#8B949E">JavaScript</text>
 <rect x="482" y="20" width="41" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="502.5" y="37" text-anchor="middle" font-size="13" fill="#8B949E">PHP</text>
 <rect x="533" y="20" width="57" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="561.5" y="37" text-anchor="middle" font-size="13" fill="#8B949E">Shell</text>
-<rect x="600" y="20" width="49" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="624.5" y="37" text-anchor="middle" font-size="13" fill="#8B949E">Java</text>
 <text x="24" y="87" font-size="11" letter-spacing="1.5" fill="#8B949E" font-weight="600">FRAMEWORKS &amp; OUTILS</text>
 <rect x="196" y="70" width="64" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="228" y="87" text-anchor="middle" font-size="13" fill="#8B949E">Svelte</text>
 <rect x="270" y="70" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="306" y="87" text-anchor="middle" font-size="13" fill="#8B949E">Laravel</text>
