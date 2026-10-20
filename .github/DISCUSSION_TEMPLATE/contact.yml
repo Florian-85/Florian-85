@@ -1,0 +1,46 @@
+title: "[Contact] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci pour votre message ! / Thanks for your message!
+
+        Cette discussion est **publique** : n'y mettez ni numéro de téléphone, ni adresse, ni donnée sensible.
+        This discussion is **public**: please don't include a phone number, an address or any sensitive data.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type de proposition / Type of request
+      options:
+        - Poste / Job opportunity
+        - Mission freelance / Freelance mission
+        - Collaboration / Collaboration
+        - Question sur un projet / Question about a project
+        - Autre / Other
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Entreprise ou nom (facultatif) / Company or name (optional)
+  - type: textarea
+    id: message
+    attributes:
+      label: Votre message / Your message
+      description: Le contexte, ce que vous cherchez et le calendrier si vous en avez un. / The context, what you are looking for, and the timeline if you have one.
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Langue de réponse / Reply language
+      options:
+        - Français
+        - English
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Confirmation
+      options:
+        - label: J'ai compris que cette discussion est publique. / I understand this discussion is public.
+          required: true
