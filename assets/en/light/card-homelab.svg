@@ -10,8 +10,8 @@
 <rect x="98" y="116" width="61" height="22" rx="11" fill="#F6F8FA" stroke="#D0D7DE"/><text x="128.5" y="131" text-anchor="middle" font-size="12" fill="#656D76">Docker</text>
 <rect x="167" y="116" width="90" height="22" rx="11" fill="#F6F8FA" stroke="#D0D7DE"/><text x="212" y="131" text-anchor="middle" font-size="12" fill="#656D76">Monitoring</text>
 <line x1="22" y1="154" x2="418" y2="154" stroke="#D0D7DE"/>
-<text x="22" y="175" font-size="12" fill="#656D76">3 weeks of activity · 80 updates</text>
-<text x="22" y="194" font-size="12" fill="#656D76">5 issues closed</text>
+<text x="22" y="175" font-size="12" fill="#656D76">3 weeks of activity · 82 updates</text>
+<text x="22" y="194" font-size="12" fill="#656D76">7 issues closed</text>
 <rect x="338" y="167" width="12" height="10" rx="2" fill="#0969DA"/>
 <rect x="354" y="167" width="12" height="10" rx="2" fill="#0969DA"/>
 <rect x="370" y="167" width="12" height="10" rx="2" fill="#D0D7DE"/>
