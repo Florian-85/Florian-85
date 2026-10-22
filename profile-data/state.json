@@ -21,11 +21,11 @@
       },
       "planner": {
         "created": "2026-10-09",
-        "pushed": "2026-10-20",
-        "commits": 59,
-        "merged": 47,
-        "closed": 32,
-        "bytes": 1371313
+        "pushed": "2026-10-21",
+        "commits": 64,
+        "merged": 51,
+        "closed": 36,
+        "bytes": 1760197
       },
       "whitenoise": {
         "created": "2026-08-31",
@@ -37,11 +37,11 @@
       },
       "homelab": {
         "created": "2026-09-30",
-        "pushed": "2026-10-20",
-        "commits": 82,
-        "merged": 19,
+        "pushed": "2026-10-21",
+        "commits": 83,
+        "merged": 20,
         "closed": 7,
-        "bytes": 324518
+        "bytes": 328556
       },
       "idea": {
         "created": "2026-10-08",
@@ -135,9 +135,9 @@
     "stats": {
       "values": [
         "16",
-        "1,334",
-        "431",
-        "802",
+        "1,342",
+        "438",
+        "819",
         "21"
       ],
       "rankTop": 40,
@@ -153,47 +153,47 @@
       {
         "name": "Python",
         "color": "#3572A5",
-        "percent": 68.99306611168356
+        "percent": 65.41676371983581
       },
       {
         "name": "TypeScript",
         "color": "#3178c6",
-        "percent": 16.44726470178159
+        "percent": 19.89975600639816
       },
       {
         "name": "JavaScript",
         "color": "#f1e05a",
-        "percent": 5.42510958536096
+        "percent": 5.272585916882247
       },
       {
         "name": "HTML",
         "color": "#e34c26",
-        "percent": 3.5777231409595904
-      },
-      {
-        "name": "PHP",
-        "color": "#4F5D95",
-        "percent": 3.14116362820212
+        "percent": 3.392269434558563
       },
       {
         "name": "Svelte",
         "color": "#ff3e00",
-        "percent": 2.415672832012188
+        "percent": 3.0402856419864004
+      },
+      {
+        "name": "PHP",
+        "color": "#4F5D95",
+        "percent": 2.9783392803388207
       }
     ],
     "streak": {
-      "total": 2870,
+      "total": 2907,
       "firstContribution": "2013-06",
-      "current": 30,
+      "current": 31,
       "currentStart": "2026-09-21",
-      "currentEnd": "2026-10-20",
-      "longest": 30,
+      "currentEnd": "2026-10-21",
+      "longest": 31,
       "longestStart": "2026-09-21",
-      "longestEnd": "2026-10-20"
+      "longestEnd": "2026-10-21"
     },
     "duolingo": {
-      "xp": 17600,
-      "streak": 136,
+      "xp": 17641,
+      "streak": 137,
       "streakStart": "2026-06-07",
       "since": "2024-01"
     }
