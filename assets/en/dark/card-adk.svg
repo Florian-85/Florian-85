@@ -10,8 +10,8 @@
 <rect x="91" y="116" width="39" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="110.5" y="131" text-anchor="middle" font-size="12" fill="#8B949E">CLI</text>
 <rect x="138" y="116" width="118" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="197" y="131" text-anchor="middle" font-size="12" fill="#8B949E">GitHub Actions</text>
 <line x1="22" y1="154" x2="418" y2="154" stroke="#30363D"/>
-<text x="22" y="175" font-size="12" fill="#8B949E">5 weeks of activity · 168 commits</text>
-<text x="22" y="194" font-size="12" fill="#8B949E">59 issues closed · ≈ 30 k lines</text>
+<text x="22" y="175" font-size="12" fill="#8B949E">5 weeks of activity · 202 commits</text>
+<text x="22" y="194" font-size="12" fill="#8B949E">62 issues closed · ≈ 36 k lines</text>
 <rect x="338" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
 <rect x="354" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
 <rect x="370" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
