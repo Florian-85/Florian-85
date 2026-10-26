@@ -21,11 +21,11 @@
       },
       "planner": {
         "created": "2026-10-09",
-        "pushed": "2026-10-24",
-        "commits": 146,
-        "merged": 77,
+        "pushed": "2026-10-25",
+        "commits": 151,
+        "merged": 79,
         "closed": 53,
-        "bytes": 2111358
+        "bytes": 2119365
       },
       "whitenoise": {
         "created": "2026-08-31",
@@ -37,11 +37,11 @@
       },
       "homelab": {
         "created": "2026-09-30",
-        "pushed": "2026-10-21",
-        "commits": 83,
-        "merged": 20,
+        "pushed": "2026-10-25",
+        "commits": 106,
+        "merged": 22,
         "closed": 7,
-        "bytes": 328556
+        "bytes": 448649
       },
       "idea": {
         "created": "2026-10-08",
@@ -135,9 +135,9 @@
     "stats": {
       "values": [
         "16",
-        "1,507",
-        "480",
-        "922",
+        "1,535",
+        "483",
+        "926",
         "21"
       ],
       "rankTop": 39,
@@ -153,47 +153,47 @@
       {
         "name": "Python",
         "color": "#3572A5",
-        "percent": 65.8562261807507
+        "percent": 66.24587984193515
       },
       {
         "name": "TypeScript",
         "color": "#3178c6",
-        "percent": 20.40794150451232
+        "percent": 20.196002280908846
       },
       {
         "name": "JavaScript",
         "color": "#f1e05a",
-        "percent": 5.03331668671955
+        "percent": 4.967960247524796
       },
       {
         "name": "Svelte",
         "color": "#ff3e00",
-        "percent": 3.1405122465215243
+        "percent": 3.1018650515558233
       },
       {
         "name": "HTML",
         "color": "#e34c26",
-        "percent": 2.961697211420065
+        "percent": 2.9244351242198237
       },
       {
         "name": "PHP",
         "color": "#4F5D95",
-        "percent": 2.6003061700758447
+        "percent": 2.563857453855562
       }
     ],
     "streak": {
-      "total": 3262,
+      "total": 3307,
       "firstContribution": "2013-06",
-      "current": 34,
+      "current": 35,
       "currentStart": "2026-09-21",
-      "currentEnd": "2026-10-24",
-      "longest": 34,
+      "currentEnd": "2026-10-25",
+      "longest": 35,
       "longestStart": "2026-09-21",
-      "longestEnd": "2026-10-24"
+      "longestEnd": "2026-10-25"
     },
     "duolingo": {
-      "xp": 17666,
-      "streak": 138,
+      "xp": 17828,
+      "streak": 139,
       "streakStart": "2026-06-07",
       "since": "2024-01"
     }

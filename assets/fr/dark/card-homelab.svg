@@ -10,7 +10,7 @@
 <rect x="98" y="116" width="61" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="128.5" y="131" text-anchor="middle" font-size="12" fill="#8B949E">Docker</text>
 <rect x="167" y="116" width="90" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="212" y="131" text-anchor="middle" font-size="12" fill="#8B949E">Monitoring</text>
 <line x1="22" y1="154" x2="418" y2="154" stroke="#30363D"/>
-<text x="22" y="175" font-size="12" fill="#8B949E">3 semaines d&#39;activité · 83 mises à jour</text>
+<text x="22" y="175" font-size="12" fill="#8B949E">4 semaines d&#39;activité · 106 mises à jour</text>
 <text x="22" y="194" font-size="12" fill="#8B949E">7 issues fermées</text>
 <rect x="338" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
 <rect x="354" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>

@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/banner.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/banner.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/banner.svg?v=cef214cd62" alt="Florian B. : automatisation, infrastructure, IA appliquée. Nantes, France." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/banner.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/banner.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/banner.svg?v=b68c304dc4" alt="Florian B. : automatisation, infrastructure, IA appliquée. Nantes, France." width="100%">
   </picture>
 </p>
 
@@ -26,34 +26,34 @@ Automatisation, infrastructure, IA appliquée au développement : j'aime ce qui 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-adk.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-adk.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-adk.svg?v=cef214cd62" alt="AI Development Kit" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-adk.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-adk.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-adk.svg?v=b68c304dc4" alt="AI Development Kit" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-benchmark.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-benchmark.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-benchmark.svg?v=cef214cd62" alt="Benchmark AI" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-benchmark.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-benchmark.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-benchmark.svg?v=b68c304dc4" alt="Benchmark AI" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-planner.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-planner.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-planner.svg?v=cef214cd62" alt="Git Planner" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-planner.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-planner.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-planner.svg?v=b68c304dc4" alt="Git Planner" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-whitenoise.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-whitenoise.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-whitenoise.svg?v=cef214cd62" alt="White Noise" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-whitenoise.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-whitenoise.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-whitenoise.svg?v=b68c304dc4" alt="White Noise" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-homelab.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-homelab.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-homelab.svg?v=cef214cd62" alt="Homelab" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-homelab.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-homelab.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-homelab.svg?v=b68c304dc4" alt="Homelab" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-idea.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-idea.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/card-idea.svg?v=cef214cd62" alt="Idea Archaeology" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/card-idea.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/card-idea.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/card-idea.svg?v=b68c304dc4" alt="Idea Archaeology" width="49%">
   </picture>
 </p>
 
@@ -62,44 +62,44 @@ Automatisation, infrastructure, IA appliquée au développement : j'aime ce qui 
 ## 🧰 Stack
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/stack.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/stack.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/stack.svg?v=cef214cd62" alt="LANGAGES, FRAMEWORKS & OUTILS, INFRA & OPS" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/stack.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/stack.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/stack.svg?v=b68c304dc4" alt="LANGAGES, FRAMEWORKS & OUTILS, INFRA & OPS" width="100%">
   </picture></p>
 
 ## 🧭 Parcours
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/journey.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/journey.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/journey.svg?v=cef214cd62" alt="🧭 Parcours" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/journey.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/journey.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/journey.svg?v=b68c304dc4" alt="🧭 Parcours" width="100%">
   </picture></p>
 
 ## 🎓 Auto-apprentissage
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/learning.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/learning.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/learning.svg?v=cef214cd62" alt="ESPAÑOL · DUOLINGO" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/learning.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/learning.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/learning.svg?v=b68c304dc4" alt="ESPAÑOL · DUOLINGO" width="100%">
   </picture></p>
 
 ## 📈 Activité
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/streak.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/streak.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/streak.svg?v=cef214cd62" alt="📈 Activité" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/streak.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/streak.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/streak.svg?v=b68c304dc4" alt="📈 Activité" width="100%">
   </picture></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/stats.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/stats.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/stats.svg?v=cef214cd62" alt="GitHub stats" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/stats.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/stats.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/stats.svg?v=b68c304dc4" alt="GitHub stats" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/languages.svg?v=cef214cd62">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/languages.svg?v=cef214cd62">
-    <img src="./assets/fr/dark/languages.svg?v=cef214cd62" alt="Languages" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/fr/dark/languages.svg?v=b68c304dc4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/fr/light/languages.svg?v=b68c304dc4">
+    <img src="./assets/fr/dark/languages.svg?v=b68c304dc4" alt="Languages" width="49%">
   </picture>
 </p>
 
