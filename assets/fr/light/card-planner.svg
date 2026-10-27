@@ -10,8 +10,8 @@
 <rect x="120" y="116" width="61" height="22" rx="11" fill="#F6F8FA" stroke="#D0D7DE"/><text x="150.5" y="131" text-anchor="middle" font-size="12" fill="#656D76">Svelte</text>
 <rect x="189" y="116" width="90" height="22" rx="11" fill="#F6F8FA" stroke="#D0D7DE"/><text x="234" y="131" text-anchor="middle" font-size="12" fill="#656D76">Playwright</text>
 <line x1="22" y1="154" x2="418" y2="154" stroke="#D0D7DE"/>
-<text x="22" y="175" font-size="12" fill="#656D76">2 semaines d&#39;activité · 157 commits</text>
-<text x="22" y="194" font-size="12" fill="#656D76">56 issues fermées · ≈ 54 k lignes</text>
+<text x="22" y="175" font-size="12" fill="#656D76">3 semaines d&#39;activité · 158 commits</text>
+<text x="22" y="194" font-size="12" fill="#656D76">56 issues fermées · ≈ 57 k lignes</text>
 <rect x="338" y="167" width="12" height="10" rx="2" fill="#0969DA"/>
 <rect x="354" y="167" width="12" height="10" rx="2" fill="#0969DA"/>
 <rect x="370" y="167" width="12" height="10" rx="2" fill="#0969DA"/>
