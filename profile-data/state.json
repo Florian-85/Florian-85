@@ -22,10 +22,10 @@
       "planner": {
         "created": "2026-10-09",
         "pushed": "2026-10-27",
-        "commits": 158,
-        "merged": 83,
+        "commits": 161,
+        "merged": 86,
         "closed": 56,
-        "bytes": 2283119
+        "bytes": 2514901
       },
       "whitenoise": {
         "created": "2026-08-31",
@@ -38,10 +38,10 @@
       "homelab": {
         "created": "2026-09-30",
         "pushed": "2026-10-27",
-        "commits": 107,
-        "merged": 23,
+        "commits": 108,
+        "merged": 24,
         "closed": 8,
-        "bytes": 456610
+        "bytes": 457369
       },
       "idea": {
         "created": "2026-10-08",
@@ -50,6 +50,22 @@
         "merged": 16,
         "closed": 16,
         "bytes": 299178
+      },
+      "streakcard": {
+        "created": "2026-10-20",
+        "pushed": "2026-10-27",
+        "commits": 7,
+        "merged": 3,
+        "closed": 0,
+        "bytes": 74188
+      },
+      "dailybanner": {
+        "created": "2026-10-20",
+        "pushed": "2026-10-27",
+        "commits": 12,
+        "merged": 3,
+        "closed": 0,
+        "bytes": 125415
       },
       "jarvis": {
         "created": "2026-10-08",
@@ -134,9 +150,9 @@
     },
     "stats": {
       "values": [
-        "17",
-        "1,545",
-        "493",
+        "18",
+        "1,553",
+        "499",
         "949",
         "21"
       ],
@@ -153,36 +169,36 @@
       {
         "name": "Python",
         "color": "#3572A5",
-        "percent": 65.26081312648935
+        "percent": 63.150533146219615
       },
       {
         "name": "TypeScript",
         "color": "#3178c6",
-        "percent": 21.658421249015834
+        "percent": 23.40796284671469
       },
       {
         "name": "JavaScript",
         "color": "#f1e05a",
-        "percent": 4.6298497080934276
+        "percent": 5.263857727050233
       },
       {
         "name": "Svelte",
         "color": "#ff3e00",
-        "percent": 3.0513761684345924
+        "percent": 2.952706572822306
       },
       {
         "name": "HTML",
         "color": "#e34c26",
-        "percent": 2.8771432041825524
+        "percent": 2.784107622594141
       },
       {
         "name": "PHP",
         "color": "#4F5D95",
-        "percent": 2.522396543784238
+        "percent": 2.4408320845990232
       }
     ],
     "streak": {
-      "total": 3357,
+      "total": 3379,
       "firstContribution": "2013-06",
       "current": 37,
       "currentStart": "2026-09-21",
@@ -192,8 +208,8 @@
       "longestEnd": "2026-10-27"
     },
     "duolingo": {
-      "xp": 17828,
-      "streak": 139,
+      "xp": 17875,
+      "streak": 140,
       "streakStart": "2026-06-07",
       "since": "2024-01"
     }

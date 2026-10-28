@@ -1,0 +1,20 @@
+<svg width="440" height="210" viewBox="0 0 440 210" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif" role="img" aria-label="Daily Banner">
+<rect x="0.5" y="0.5" width="439" height="209" rx="10" fill="#D2C6FF" stroke="#7B3FE4"/>
+<rect x="0.5" y="0.5" width="439" height="4" rx="2" fill="#D1128F"/>
+<polygon points="31,24 33.2,29.9 39.6,30.2 34.6,34.2 36.3,40.3 31,36.8 25.7,40.3 27.4,34.2 22.4,30.2 28.8,29.9" fill="#D1128F" stroke="#D1128F" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="52" y="40" font-size="19" font-weight="600" fill="#D1128F">Daily Banner</text>
+<g transform="translate(365,22)"><rect x="0" y="0" width="57" height="22" rx="11" fill="#FFC8EC" stroke="#D1128F"/><text x="28.5" y="15" text-anchor="middle" font-size="11" fill="#D1128F">Public</text></g>
+<text x="22" y="78" font-size="14" fill="#24105A">Animated SVG banner for a GitHub profile,</text>
+<text x="22" y="99" font-size="14" fill="#24105A">redrawn daily by a GitHub Action.</text>
+<rect x="22" y="116" width="90" height="22" rx="11" fill="#DDD3FF" stroke="#7B3FE4"/><text x="67" y="131" text-anchor="middle" font-size="12" fill="#5B3FB0">JavaScript</text>
+<rect x="120" y="116" width="118" height="22" rx="11" fill="#DDD3FF" stroke="#7B3FE4"/><text x="179" y="131" text-anchor="middle" font-size="12" fill="#5B3FB0">GitHub Actions</text>
+<rect x="246" y="116" width="39" height="22" rx="11" fill="#DDD3FF" stroke="#7B3FE4"/><text x="265.5" y="131" text-anchor="middle" font-size="12" fill="#5B3FB0">SVG</text>
+<line x1="22" y1="154" x2="418" y2="154" stroke="#7B3FE4"/>
+<text x="22" y="175" font-size="12" fill="#5B3FB0">1 week of activity · 12 commits</text>
+<text x="22" y="194" font-size="12" fill="#5B3FB0">≈ 3 k lines</text>
+<rect x="338" y="167" width="12" height="10" rx="2" fill="#D1128F"/>
+<rect x="354" y="167" width="12" height="10" rx="2" fill="#7B3FE4"/>
+<rect x="370" y="167" width="12" height="10" rx="2" fill="#7B3FE4"/>
+<rect x="386" y="167" width="12" height="10" rx="2" fill="#7B3FE4"/>
+<rect x="402" y="167" width="12" height="10" rx="2" fill="#7B3FE4"/>
+</svg>
