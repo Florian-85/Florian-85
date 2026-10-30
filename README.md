@@ -2,9 +2,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/banner.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/banner.svg?v=331dde9379">
-    <img src="./assets/en/dark/banner.svg?v=331dde9379" alt="Florian B.: automation, infrastructure, applied AI. Nantes, France." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/banner.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/banner.svg?v=2af4541973">
+    <img src="./assets/en/dark/banner.svg?v=2af4541973" alt="Florian B.: automation, infrastructure, applied AI. Nantes, France." width="100%">
   </picture>
 </p>
 
@@ -26,44 +26,44 @@ Automation, infrastructure, applied AI for software development: I like things t
 
 <p align="center">
   <a href="https://github.com/Florian-85/learning-streak-card"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-streakcard.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-streakcard.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-streakcard.svg?v=331dde9379" alt="Learning Streak Card" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-streakcard.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-streakcard.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-streakcard.svg?v=2af4541973" alt="Learning Streak Card" width="49%">
   </picture></a>
   <a href="https://github.com/Florian-85/daily-banner"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-dailybanner.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-dailybanner.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-dailybanner.svg?v=331dde9379" alt="Daily Banner" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-dailybanner.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-dailybanner.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-dailybanner.svg?v=2af4541973" alt="Daily Banner" width="49%">
   </picture></a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-adk.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-adk.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-adk.svg?v=331dde9379" alt="AI Development Kit" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-adk.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-adk.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-adk.svg?v=2af4541973" alt="AI Development Kit" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-benchmark.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-benchmark.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-benchmark.svg?v=331dde9379" alt="Benchmark AI" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-benchmark.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-benchmark.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-benchmark.svg?v=2af4541973" alt="Benchmark AI" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-planner.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-planner.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-planner.svg?v=331dde9379" alt="Git Planner" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-planner.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-planner.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-planner.svg?v=2af4541973" alt="Git Planner" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-whitenoise.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-whitenoise.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-whitenoise.svg?v=331dde9379" alt="White Noise" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-whitenoise.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-whitenoise.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-whitenoise.svg?v=2af4541973" alt="White Noise" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-homelab.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-homelab.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-homelab.svg?v=331dde9379" alt="Homelab" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-homelab.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-homelab.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-homelab.svg?v=2af4541973" alt="Homelab" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-idea.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-idea.svg?v=331dde9379">
-    <img src="./assets/en/dark/card-idea.svg?v=331dde9379" alt="Idea Archaeology" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/card-idea.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/card-idea.svg?v=2af4541973">
+    <img src="./assets/en/dark/card-idea.svg?v=2af4541973" alt="Idea Archaeology" width="49%">
   </picture>
 </p>
 
@@ -72,44 +72,44 @@ Automation, infrastructure, applied AI for software development: I like things t
 ## 🧰 Stack
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stack.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stack.svg?v=331dde9379">
-    <img src="./assets/en/dark/stack.svg?v=331dde9379" alt="LANGUAGES, FRAMEWORKS & TOOLS, INFRA & OPS" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stack.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stack.svg?v=2af4541973">
+    <img src="./assets/en/dark/stack.svg?v=2af4541973" alt="LANGUAGES, FRAMEWORKS & TOOLS, INFRA & OPS" width="100%">
   </picture></p>
 
 ## 🧭 Journey
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/journey.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/journey.svg?v=331dde9379">
-    <img src="./assets/en/dark/journey.svg?v=331dde9379" alt="🧭 Journey" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/journey.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/journey.svg?v=2af4541973">
+    <img src="./assets/en/dark/journey.svg?v=2af4541973" alt="🧭 Journey" width="100%">
   </picture></p>
 
 ## 🎓 Self-learning
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/learning.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/learning.svg?v=331dde9379">
-    <img src="./assets/en/dark/learning.svg?v=331dde9379" alt="ESPAÑOL · DUOLINGO" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/learning.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/learning.svg?v=2af4541973">
+    <img src="./assets/en/dark/learning.svg?v=2af4541973" alt="ESPAÑOL · DUOLINGO" width="100%">
   </picture></p>
 
 ## 📈 Activity
 
 <p align="center"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/streak.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/streak.svg?v=331dde9379">
-    <img src="./assets/en/dark/streak.svg?v=331dde9379" alt="📈 Activity" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/streak.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/streak.svg?v=2af4541973">
+    <img src="./assets/en/dark/streak.svg?v=2af4541973" alt="📈 Activity" width="100%">
   </picture></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stats.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stats.svg?v=331dde9379">
-    <img src="./assets/en/dark/stats.svg?v=331dde9379" alt="GitHub stats" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/stats.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/stats.svg?v=2af4541973">
+    <img src="./assets/en/dark/stats.svg?v=2af4541973" alt="GitHub stats" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/languages.svg?v=331dde9379">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/languages.svg?v=331dde9379">
-    <img src="./assets/en/dark/languages.svg?v=331dde9379" alt="Languages" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/dark/languages.svg?v=2af4541973">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/en/light/languages.svg?v=2af4541973">
+    <img src="./assets/en/dark/languages.svg?v=2af4541973" alt="Languages" width="49%">
   </picture>
 </p>
 
