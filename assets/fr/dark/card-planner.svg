@@ -1,20 +1,20 @@
 <svg width="440" height="210" viewBox="0 0 440 210" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif" role="img" aria-label="Git Planner">
-<rect x="0.5" y="0.5" width="439" height="209" rx="10" fill="#0D1117" stroke="#30363D"/>
-<rect x="0.5" y="0.5" width="439" height="4" rx="2" fill="#58A6FF"/>
-<polygon points="31,24 33.2,29.9 39.6,30.2 34.6,34.2 36.3,40.3 31,36.8 25.7,40.3 27.4,34.2 22.4,30.2 28.8,29.9" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linejoin="round"/>
-<text x="52" y="40" font-size="19" font-weight="600" fill="#58A6FF">Git Planner</text>
-<g transform="translate(325,22)"><rect x="0" y="0" width="97" height="22" rx="11" fill="#0f2a4a" stroke="#58A6FF"/><text x="48.5" y="15" text-anchor="middle" font-size="11" fill="#58A6FF">Public prévu</text></g>
-<text x="22" y="78" font-size="14" fill="#C9D1D9">Centre de pilotage personnel de mes projets</text>
-<text x="22" y="99" font-size="14" fill="#C9D1D9">logiciels : issues, PR, métriques.</text>
-<rect x="22" y="116" width="90" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="67" y="131" text-anchor="middle" font-size="12" fill="#8B949E">TypeScript</text>
-<rect x="120" y="116" width="61" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="150.5" y="131" text-anchor="middle" font-size="12" fill="#8B949E">Svelte</text>
-<rect x="189" y="116" width="90" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="234" y="131" text-anchor="middle" font-size="12" fill="#8B949E">Playwright</text>
-<line x1="22" y1="154" x2="418" y2="154" stroke="#30363D"/>
-<text x="22" y="175" font-size="12" fill="#8B949E">3 semaines d&#39;activité · 163 commits</text>
-<text x="22" y="194" font-size="12" fill="#8B949E">56 issues fermées · ≈ 67 k lignes</text>
-<rect x="338" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
-<rect x="354" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
-<rect x="370" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
-<rect x="386" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
-<rect x="402" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
+<rect x="0.5" y="0.5" width="439" height="209" rx="10" fill="#140B2E" stroke="#4B2FA0"/>
+<rect x="0.5" y="0.5" width="439" height="4" rx="2" fill="#FF4FD8"/>
+<polygon points="31,24 33.2,29.9 39.6,30.2 34.6,34.2 36.3,40.3 31,36.8 25.7,40.3 27.4,34.2 22.4,30.2 28.8,29.9" fill="none" stroke="#FF4FD8" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="52" y="40" font-size="19" font-weight="600" fill="#FF4FD8">Git Planner</text>
+<g transform="translate(325,22)"><rect x="0" y="0" width="97" height="22" rx="11" fill="#3a1560" stroke="#FF4FD8"/><text x="48.5" y="15" text-anchor="middle" font-size="11" fill="#FF4FD8">Public prévu</text></g>
+<text x="22" y="78" font-size="14" fill="#F3EAFF">Centre de pilotage personnel de mes projets</text>
+<text x="22" y="99" font-size="14" fill="#F3EAFF">logiciels : issues, PR, métriques.</text>
+<rect x="22" y="116" width="90" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="67" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">TypeScript</text>
+<rect x="120" y="116" width="61" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="150.5" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">Svelte</text>
+<rect x="189" y="116" width="90" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="234" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">Playwright</text>
+<line x1="22" y1="154" x2="418" y2="154" stroke="#4B2FA0"/>
+<text x="22" y="175" font-size="12" fill="#B9A6E8">3 semaines d&#39;activité · 163 commits</text>
+<text x="22" y="194" font-size="12" fill="#B9A6E8">56 issues fermées · ≈ 67 k lignes</text>
+<rect x="338" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
+<rect x="354" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
+<rect x="370" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
+<rect x="386" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
+<rect x="402" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
 </svg>

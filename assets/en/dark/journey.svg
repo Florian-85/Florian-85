@@ -1,31 +1,31 @@
 <svg width="900" height="184" viewBox="0 0 900 184" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif" role="img" aria-label="Journey">
-<rect x="0.5" y="0.5" width="899" height="183" rx="10" fill="#0D1117" stroke="#30363D"/>
-<line x1="90" y1="36" x2="810" y2="36" stroke="#58A6FF" stroke-opacity="0.45" stroke-dasharray="4 5"/>
-<circle cx="90" cy="36" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="90" cy="36" r="3.5" fill="#58A6FF"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="90" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#58A6FF">IT foundations</text>
-<text x="90" y="96" text-anchor="middle" font-size="12" fill="#C9D1D9">Master-level program:</text>
-<text x="90" y="115" text-anchor="middle" font-size="12" fill="#8B949E">Digital project management,</text>
-<text x="90" y="134" text-anchor="middle" font-size="12" fill="#8B949E">mobility &amp; security</text>
-<text x="90" y="153" text-anchor="middle" font-size="12" fill="#8B949E">Dev, systems &amp; networks</text>
-<circle cx="270" cy="36" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="270" cy="36" r="3.5" fill="#58A6FF"><animate attributeName="opacity" values="1;.3;1" dur="2.9s" repeatCount="indefinite"/></circle>
-<text x="270" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#58A6FF">International base</text>
-<text x="270" y="96" text-anchor="middle" font-size="12" fill="#C9D1D9">Professional English (TOEIC 975)</text>
-<text x="270" y="115" text-anchor="middle" font-size="12" fill="#8B949E">Studies in China</text>
-<text x="270" y="134" text-anchor="middle" font-size="12" fill="#8B949E">Work mission in Spain</text>
-<text x="270" y="153" text-anchor="middle" font-size="12" fill="#8B949E">Travels: Cameroon, Scotland</text>
-<circle cx="450" cy="36" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="450" cy="36" r="3.5" fill="#58A6FF"><animate attributeName="opacity" values="1;.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
-<text x="450" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#58A6FF">Industry &amp; quality</text>
-<text x="450" y="96" text-anchor="middle" font-size="12" fill="#C9D1D9">Production, lab work,</text>
-<text x="450" y="115" text-anchor="middle" font-size="12" fill="#8B949E">analysis and reporting</text>
-<text x="450" y="134" text-anchor="middle" font-size="12" fill="#8B949E">in an industrial setting</text>
-<circle cx="630" cy="36" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="630" cy="36" r="3.5" fill="#58A6FF"><animate attributeName="opacity" values="1;.3;1" dur="3.9s" repeatCount="indefinite"/></circle>
-<text x="630" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#58A6FF">Operations &amp; data</text>
-<text x="630" y="96" text-anchor="middle" font-size="12" fill="#C9D1D9">Field data collection, quality</text>
-<text x="630" y="115" text-anchor="middle" font-size="12" fill="#8B949E">control, data integration,</text>
-<text x="630" y="134" text-anchor="middle" font-size="12" fill="#8B949E">continuous improvement</text>
-<circle cx="810" cy="36" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/><circle cx="810" cy="36" r="3.5" fill="#58A6FF"><animate attributeName="opacity" values="1;.3;1" dur="4.4s" repeatCount="indefinite"/></circle>
-<text x="810" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#58A6FF">Side projects</text>
-<text x="810" y="96" text-anchor="middle" font-size="12" fill="#C9D1D9">Homelab, automation,</text>
-<text x="810" y="115" text-anchor="middle" font-size="12" fill="#8B949E">applied AI for dev,</text>
-<text x="810" y="134" text-anchor="middle" font-size="12" fill="#8B949E">supervised AI agents</text>
+<rect x="0.5" y="0.5" width="899" height="183" rx="10" fill="#140B2E" stroke="#4B2FA0"/>
+<line x1="90" y1="36" x2="810" y2="36" stroke="#FF4FD8" stroke-opacity="0.45" stroke-dasharray="4 5"/>
+<circle cx="90" cy="36" r="9" fill="#140B2E" stroke="#FF4FD8" stroke-width="2"/><circle cx="90" cy="36" r="3.5" fill="#FF4FD8"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="90" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#FF4FD8">IT foundations</text>
+<text x="90" y="96" text-anchor="middle" font-size="12" fill="#F3EAFF">Master-level program:</text>
+<text x="90" y="115" text-anchor="middle" font-size="12" fill="#B9A6E8">Digital project management,</text>
+<text x="90" y="134" text-anchor="middle" font-size="12" fill="#B9A6E8">mobility &amp; security</text>
+<text x="90" y="153" text-anchor="middle" font-size="12" fill="#B9A6E8">Dev, systems &amp; networks</text>
+<circle cx="270" cy="36" r="9" fill="#140B2E" stroke="#FF4FD8" stroke-width="2"/><circle cx="270" cy="36" r="3.5" fill="#FF4FD8"><animate attributeName="opacity" values="1;.3;1" dur="2.9s" repeatCount="indefinite"/></circle>
+<text x="270" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#FF4FD8">International base</text>
+<text x="270" y="96" text-anchor="middle" font-size="12" fill="#F3EAFF">Professional English (TOEIC 975)</text>
+<text x="270" y="115" text-anchor="middle" font-size="12" fill="#B9A6E8">Studies in China</text>
+<text x="270" y="134" text-anchor="middle" font-size="12" fill="#B9A6E8">Work mission in Spain</text>
+<text x="270" y="153" text-anchor="middle" font-size="12" fill="#B9A6E8">Travels: Cameroon, Scotland</text>
+<circle cx="450" cy="36" r="9" fill="#140B2E" stroke="#FF4FD8" stroke-width="2"/><circle cx="450" cy="36" r="3.5" fill="#FF4FD8"><animate attributeName="opacity" values="1;.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="450" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#FF4FD8">Industry &amp; quality</text>
+<text x="450" y="96" text-anchor="middle" font-size="12" fill="#F3EAFF">Production, lab work,</text>
+<text x="450" y="115" text-anchor="middle" font-size="12" fill="#B9A6E8">analysis and reporting</text>
+<text x="450" y="134" text-anchor="middle" font-size="12" fill="#B9A6E8">in an industrial setting</text>
+<circle cx="630" cy="36" r="9" fill="#140B2E" stroke="#FF4FD8" stroke-width="2"/><circle cx="630" cy="36" r="3.5" fill="#FF4FD8"><animate attributeName="opacity" values="1;.3;1" dur="3.9s" repeatCount="indefinite"/></circle>
+<text x="630" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#FF4FD8">Operations &amp; data</text>
+<text x="630" y="96" text-anchor="middle" font-size="12" fill="#F3EAFF">Field data collection, quality</text>
+<text x="630" y="115" text-anchor="middle" font-size="12" fill="#B9A6E8">control, data integration,</text>
+<text x="630" y="134" text-anchor="middle" font-size="12" fill="#B9A6E8">continuous improvement</text>
+<circle cx="810" cy="36" r="9" fill="#140B2E" stroke="#FF4FD8" stroke-width="2"/><circle cx="810" cy="36" r="3.5" fill="#FF4FD8"><animate attributeName="opacity" values="1;.3;1" dur="4.4s" repeatCount="indefinite"/></circle>
+<text x="810" y="72" text-anchor="middle" font-size="14" font-weight="600" fill="#FF4FD8">Side projects</text>
+<text x="810" y="96" text-anchor="middle" font-size="12" fill="#F3EAFF">Homelab, automation,</text>
+<text x="810" y="115" text-anchor="middle" font-size="12" fill="#B9A6E8">applied AI for dev,</text>
+<text x="810" y="134" text-anchor="middle" font-size="12" fill="#B9A6E8">supervised AI agents</text>
 </svg>
