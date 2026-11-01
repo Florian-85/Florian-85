@@ -201,15 +201,15 @@
       "total": 3394,
       "firstContribution": "2013-06",
       "current": 0,
-      "currentStart": "2026-10-30",
-      "currentEnd": "2026-10-30",
+      "currentStart": "2026-10-31",
+      "currentEnd": "2026-10-31",
       "longest": 39,
       "longestStart": "2026-09-21",
       "longestEnd": "2026-10-29"
     },
     "duolingo": {
-      "xp": 17900,
-      "streak": 0,
+      "xp": 17939,
+      "streak": 142,
       "streakStart": "2026-06-07",
       "since": "2024-01"
     }
