@@ -1,20 +1,20 @@
 <svg width="440" height="210" viewBox="0 0 440 210" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif" role="img" aria-label="AI Development Kit">
-<rect x="0.5" y="0.5" width="439" height="209" rx="10" fill="#140B2E" stroke="#4B2FA0"/>
-<rect x="0.5" y="0.5" width="439" height="4" rx="2" fill="#FF4FD8"/>
-<polygon points="31,24 33.2,29.9 39.6,30.2 34.6,34.2 36.3,40.3 31,36.8 25.7,40.3 27.4,34.2 22.4,30.2 28.8,29.9" fill="none" stroke="#FF4FD8" stroke-width="1.5" stroke-linejoin="round"/>
-<text x="52" y="40" font-size="19" font-weight="600" fill="#FF4FD8">AI Development Kit</text>
-<g transform="translate(332,22)"><rect x="0" y="0" width="90" height="22" rx="11" fill="#3a1560" stroke="#FF4FD8"/><text x="45" y="15" text-anchor="middle" font-size="11" fill="#FF4FD8">Public soon</text></g>
-<text x="22" y="78" font-size="14" fill="#F3EAFF">Offline-first toolkit to govern</text>
-<text x="22" y="99" font-size="14" fill="#F3EAFF">AI-assisted software development.</text>
-<rect x="22" y="116" width="61" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="52.5" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">Python</text>
-<rect x="91" y="116" width="39" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="110.5" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">CLI</text>
-<rect x="138" y="116" width="118" height="22" rx="11" fill="#1E1245" stroke="#4B2FA0"/><text x="197" y="131" text-anchor="middle" font-size="12" fill="#B9A6E8">GitHub Actions</text>
-<line x1="22" y1="154" x2="418" y2="154" stroke="#4B2FA0"/>
-<text x="22" y="175" font-size="12" fill="#B9A6E8">6 weeks of activity · 239 commits</text>
-<text x="22" y="194" font-size="12" fill="#B9A6E8">73 issues closed · ≈ 38 k lines</text>
-<rect x="338" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
-<rect x="354" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
-<rect x="370" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
-<rect x="386" y="167" width="12" height="10" rx="2" fill="#FF4FD8"/>
-<rect x="402" y="167" width="12" height="10" rx="2" fill="#4B2FA0"/>
+<rect x="0.5" y="0.5" width="439" height="209" rx="10" fill="#0D1117" stroke="#30363D"/>
+<rect x="0.5" y="0.5" width="439" height="4" rx="2" fill="#58A6FF"/>
+<polygon points="31,24 33.2,29.9 39.6,30.2 34.6,34.2 36.3,40.3 31,36.8 25.7,40.3 27.4,34.2 22.4,30.2 28.8,29.9" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="52" y="40" font-size="19" font-weight="600" fill="#58A6FF">AI Development Kit</text>
+<g transform="translate(332,22)"><rect x="0" y="0" width="90" height="22" rx="11" fill="#0f2a4a" stroke="#58A6FF"/><text x="45" y="15" text-anchor="middle" font-size="11" fill="#58A6FF">Public soon</text></g>
+<text x="22" y="78" font-size="14" fill="#C9D1D9">Offline-first toolkit to govern</text>
+<text x="22" y="99" font-size="14" fill="#C9D1D9">AI-assisted software development.</text>
+<rect x="22" y="116" width="61" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="52.5" y="131" text-anchor="middle" font-size="12" fill="#8B949E">Python</text>
+<rect x="91" y="116" width="39" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="110.5" y="131" text-anchor="middle" font-size="12" fill="#8B949E">CLI</text>
+<rect x="138" y="116" width="118" height="22" rx="11" fill="#161B22" stroke="#30363D"/><text x="197" y="131" text-anchor="middle" font-size="12" fill="#8B949E">GitHub Actions</text>
+<line x1="22" y1="154" x2="418" y2="154" stroke="#30363D"/>
+<text x="22" y="175" font-size="12" fill="#8B949E">6 weeks of activity · 239 commits</text>
+<text x="22" y="194" font-size="12" fill="#8B949E">73 issues closed · ≈ 38 k lines</text>
+<rect x="338" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
+<rect x="354" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
+<rect x="370" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
+<rect x="386" y="167" width="12" height="10" rx="2" fill="#58A6FF"/>
+<rect x="402" y="167" width="12" height="10" rx="2" fill="#30363D"/>
 </svg>
